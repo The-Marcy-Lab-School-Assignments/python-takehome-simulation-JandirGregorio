@@ -12,7 +12,7 @@ Output will be saved to `output.txt`. The console will confirm when the file has
  
 ## What This Script Does
  
-[Write 2-3 sentences describing what your script does in plain English.]
+This script reads the data from the `csv` NYC 311 service requests from January through April 2024. So far, the scripts counts how many requests are open, what the most common complaint type is, and how many requests there are per borough. The summary has been saved on to the `output.txt` file.
  
 ## Dependencies
  
