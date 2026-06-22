@@ -12,7 +12,7 @@ Output will be saved to `output.txt`. The console will confirm when the file has
  
 ## What This Script Does
  
-This script reads NYC 311 service request data from January through April 2024. It counts how many requests are open, identifies the most common complaint type, and reports the number of requests in each borough. The summary has been saved to `output.txt`.
+This script reads NYC 311 service request data from January through April 2024. It counts how many requests are open, identifies the most common complaint type, and reports the number of requests in each borough. It also ranks complaint types by frequency, identifies the borough with the most open requests, calculates the closure rate for each borough, and lists the top 3 boroughs by total requests. The summary results are saved to `output.txt`.
  
 ## Dependencies
  
